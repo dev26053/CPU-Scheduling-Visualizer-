@@ -1,6 +1,4 @@
 # CPU-Scheduling-Visualizer-
-# CPU Scheduling Visualizer
-
 A web-based project that visualizes various CPU scheduling algorithms to help students and professionals understand how process scheduling works in operating systems.
 
 ## 🚀 Features
